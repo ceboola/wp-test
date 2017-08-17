@@ -1,0 +1,1 @@
+export const REHYDRATE_STORE = 'REHYDRATE_STORE';
